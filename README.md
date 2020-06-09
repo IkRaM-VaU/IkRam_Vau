@@ -25,9 +25,9 @@ It's Help You To Find Old Account.
 
 • python2 IkRaM_VaU.py
 
-#UserName & Password
+#UserName_&_Password
 
-•User Name : IkRam_Vau
+• User Name : IkRam_Vau
 
 • Password : JoY
 
