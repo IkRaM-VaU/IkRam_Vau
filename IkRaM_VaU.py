@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """  👉✅⭕Assalamu Alaikum⭕✅👈
+logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
                 ☣️☢️IkRaM_VaU☢️☣️ 
             ♠I Am From Bangladesh♠
           🔥 Stay_Home - Stay_Safe 🔥
