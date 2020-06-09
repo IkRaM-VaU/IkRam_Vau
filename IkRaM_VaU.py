@@ -47,12 +47,13 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ ▄︻┻═┳一   🇧🇩 Assalamu Alaikum🕌🇧🇩   ╾━╤デ╦︻
-           ▄︻┻═┳一     🇧🇩☣️☢️IkRaM_VaU☢️☣️🇧🇩  ╾━╤デ╦︻
-           ▄︻┻═┳一  🇧🇩♠I Am From Bangladesh♠🇧🇩 ╾━╤デ╦︻
-           ▄︻┻═┳一 🇧🇩🔥 Stay_Home - Stay_Safe 🔥🇧🇩 ╾━╤デ╦︻
+logo = """   ⭕Assalamu Alaikum⭕
+                ☣️☢️IkRaM_VaU☢️☣️ 
+            ♠I Am From Bangladesh♠
+          🔥 Stay_Home - Stay_Safe 🔥
            
-	   🤘👉 Welcome To Our Worldest Unlimited Cloning Github👈🤘
+        ♠👉 Welcome To Our Worldest👈♠
+        ♠👉Unlimited Cloning Github👈♠
   
 
 ██╗██╗░░██╗██████╗░░█████╗░███╗░░░███╗
@@ -80,10 +81,11 @@ logo = """ ▄︻┻═┳一   🇧🇩 Assalamu Alaikum🕌🇧🇩   ╾━�
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
 
-       🤘👉Let's Hope You Get More IDs Than You Think👈🤘
-              🤘👉This Github Was Full Secure👈🤘
-                   ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
-                ♥️♥️ YouR HelP Our Happiness ♥️♥️
+            ♠👉Let's Hope You Get More👈♠
+               ♠👉IDs Than You Think👈♠
+           🤘👉This Github Was Full Secure👈🤘
+                ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
+             ♥️♥️ YouR HelP Our Happiness ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m IkRam_Vau
 \033[1;96mInstagram \033[1;93m: \033[1:m IkRam_Vau
