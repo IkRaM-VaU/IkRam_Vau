@@ -20,7 +20,7 @@ It's Help You To Find Old Account.
 
 • pkg install requests
 
-• https://github.com/IkRaM-VaU/IkRam_Vau
+• git clone https://github.com/IkRaM-VaU/IkRam_Vau
 
 • cd IkRam_Vau
 
