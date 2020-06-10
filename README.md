@@ -26,7 +26,7 @@ It's Help You To Find Old Account.
 
 • ls
 
-• python2 IkRaM_VaU.py
+• python2 IkRam_Vau.py
 
 # UserName_&_Password
 
