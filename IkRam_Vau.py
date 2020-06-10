@@ -77,8 +77,9 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
                    
         ♠👉Let's Hope You Get More👈♠
       ♠👉Than Clon Accounts You Think👈♠
+    ♠👉Do Not Use Your Personal Account👈♠
        🤘👉This Github Was Full Secure👈🤘
-             ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
+            ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
          ♥️♥️ YouR HelP Our Happiness ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m IkRam_Vau
