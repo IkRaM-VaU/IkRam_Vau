@@ -13,15 +13,17 @@ It's Help You To Find Old Account.
 
 # Installation
 
-• apt update & apt upgrade
+• apt update 
+
+• apt upgrade
 
 • pkg install git
 
 • pkg install python2
 
-• pkg install requests
+• pip2 install requests
 
-• pkg install mechanize
+• pip2 install mechanize
 
 • git clone https://github.com/IkRaM-VaU/IkRam_Vau
 
