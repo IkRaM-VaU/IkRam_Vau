@@ -17,6 +17,8 @@ It's Help You To Find Old Account.
 
 • pkg install git
 
+• pkg install python2
+
 • pkg install requests
 
 • pkg install mechanize
