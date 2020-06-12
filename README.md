@@ -13,15 +13,13 @@ It's Help You To Find Old Account.
 
 # Installation
 
-• apt update
-
-• apt install pkg
+• apt update & apt upgrade
 
 • pkg install git
 
-• pkg install mechanize
-
 • pkg install requests
+
+• pkg install mechanize
 
 • git clone https://github.com/IkRaM-VaU/IkRam_Vau
 
